@@ -24,10 +24,10 @@ services:
     image: mysql:8.0
     container_name: mysql_db
     environment:
-      - MYSQL_ROOT_PASSWORD: Rp123456
-      - MYSQL_DATABASE: car_rental
-      - MYSQL_USER: admin
-      - MYSQL_PASSWORD: admin1234
+      MYSQL_ROOT_PASSWORD: Rp123456
+      MYSQL_DATABASE: car_rental
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin1234
     ports:
       - "3306:3306"
     volumes:
