@@ -36,7 +36,7 @@ resource "aws_instance" "tf-docker-ec2" {
     }
 
 locals {
-  secgr-dynamic-ports = [22,80,443,8000,5000]
+  secgr-dynamic-ports = [22,80]
   user= "techpro"
 }
 
@@ -61,6 +61,31 @@ resource "aws_security_group" "my-security-group" {
   }
 }
 
+variable "domain_name" {
+  default = "techprodevops.com"
+}
+
+variable "subdomain" {
+  default = "app"
+}
+
+data "aws_route53_zone" "selected" {
+  name         = var.domain_name
+  private_zone = false
+}
+
+resource "aws_route53_record" "root_record" {
+  zone_id = data.aws_route53_zone.selected.zone_id
+  name    = var.domain_name
+  type    = "A"
+  ttl     = 300
+  records = [aws_instance.tf-docker-ec2.public_ip]
+}
+
 output "name" {
   value= "http://${aws_instance.tf-docker-ec2.public_ip}"
+}
+
+output "domain_url" {
+  value = "http://${aws_route53_record.root_record.fqdn}"
 }
