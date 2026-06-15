@@ -1,0 +1,79 @@
+2026-06-15 05:08:19,048 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:19,048 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:19,152 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:19,152 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:20,479 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:20,480 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:20,683 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:20,684 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:22,344 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:22,345 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:22,602 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:22,603 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:24,178 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:24,178 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:24,180 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:24,181 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:26,475 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:26,476 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:26,540 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:26,540 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:29,880 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:29,881 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:29,969 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:29,969 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:08:34,458 INFO: Veritabanı tabloları kontrol edildi/oluşturuldu.
+2026-06-15 05:08:34,489 INFO: Veritabanı tabloları kontrol edildi/oluşturuldu.
+2026-06-15 05:08:34,901 INFO: Admin kullanıcısı oluşturuldu.
+2026-06-15 05:08:34,916 INFO: Örnek araçlar başarıyla eklendi.
+2026-06-15 05:08:34,917 INFO: Örnek araçlar eklendi.
+2026-06-15 05:08:34,917 INFO: Veritabanı başlatma işlemi tamamlandı.
+2026-06-15 05:08:34,950 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.IntegrityError) 1062 (23000): Duplicate entry 'admin' for key 'user.username'
+[SQL: INSERT INTO user (username, email, password_hash, is_admin, reset_token, reset_token_expires) VALUES (%(username)s, %(email)s, %(password_hash)s, %(is_admin)s, %(reset_token)s, %(reset_token_expires)s)]
+[parameters: {'username': 'admin', 'email': 'admin@example.com', 'password_hash': 'pbkdf2:sha256:600000$7oBx8vN6EAzBsTNS$fc2f3c1d642182ac06db763979bf68a61a3826218e3a8d4fb9f1ee9221ff3e73', 'is_admin': 1, 'reset_token': None, 'reset_token_expires': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-06-15 05:08:34,950 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.IntegrityError) 1062 (23000): Duplicate entry 'admin' for key 'user.username'
+[SQL: INSERT INTO user (username, email, password_hash, is_admin, reset_token, reset_token_expires) VALUES (%(username)s, %(email)s, %(password_hash)s, %(is_admin)s, %(reset_token)s, %(reset_token_expires)s)]
+[parameters: {'username': 'admin', 'email': 'admin@example.com', 'password_hash': 'pbkdf2:sha256:600000$7oBx8vN6EAzBsTNS$fc2f3c1d642182ac06db763979bf68a61a3826218e3a8d4fb9f1ee9221ff3e73', 'is_admin': 1, 'reset_token': None, 'reset_token_expires': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-06-15 05:08:42,514 INFO: Veritabanı tabloları kontrol edildi/oluşturuldu.
+2026-06-15 05:08:42,516 INFO: Veritabanı tabloları kontrol edildi/oluşturuldu.
+2026-06-15 05:08:42,536 INFO: Veritabanı başlatma işlemi tamamlandı.
+2026-06-15 05:08:42,538 INFO: Veritabanı başlatma işlemi tamamlandı.
+2026-06-15 05:22:03,044 INFO: Ana sayfa yüklendi. 5 araç bulundu.
+2026-06-15 05:22:39,772 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:22:39,773 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:22:39,876 ERROR: Veritabanı başlatılırken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:22:39,876 ERROR: Uygulama oluşturulurken hata oluştu: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2026-06-15 05:22:41,127 INFO: Veritabanı tabloları kontrol edildi/oluşturuldu.
+2026-06-15 05:22:41,159 INFO: Veritabanı başlatma işlemi tamamlandı.
+2026-06-15 05:22:41,373 INFO: Veritabanı tabloları kontrol edildi/oluşturuldu.
+2026-06-15 05:22:41,395 INFO: Veritabanı başlatma işlemi tamamlandı.
